@@ -1,0 +1,4 @@
+.env
+Certificates
+node_modules
+pnpm-lock.yaml
